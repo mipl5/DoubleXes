@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\DoubleString\DoubleString\bin\Debug\DoubleString.exe.config
+C:\Users\User\source\repos\DoubleString\DoubleString\bin\Debug\DoubleString.exe
+C:\Users\User\source\repos\DoubleString\DoubleString\bin\Debug\DoubleString.pdb
+C:\Users\User\source\repos\DoubleString\DoubleString\obj\Debug\DoubleString.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DoubleString\DoubleString\obj\Debug\DoubleString.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DoubleString\DoubleString\obj\Debug\DoubleString.exe
+C:\Users\User\source\repos\DoubleString\DoubleString\obj\Debug\DoubleString.pdb
